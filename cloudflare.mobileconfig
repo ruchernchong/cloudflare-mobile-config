@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+        <dict>
+            <key>Name</key>
+            <string>Cloudflare DNS over TLS</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use Cloudflare Encrypted DNS over TLS</string>
+            <key>PayloadDisplayName</key>
+            <string>Cloudflare DNS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.AFCA1444-5AEB-44CD-B23D-5D1B3ADCD1EE</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>A6F9CB2D-F00E-4C3A-90EB-E19E5B872C4F</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>TLS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2606:4700:4700::1111</string>
+                    <string>2606:4700:4700::1001</string>
+                    <string>1.1.1.1</string>
+                    <string>1.0.0.1</string>
+                </array>
+                <key>ServerName</key>
+                <string>cloudflare-dns.com</string>
+            </dict>
+        </dict>
+    </array>
+	<key>PayloadDescription</key>
+	<string>Adds the Cloudflare DNS to Big Sur and iOS 14 based systems</string>
+	<key>PayloadDisplayName</key>
+	<string>Cloudflare DNS over TLS</string>
+	<key>PayloadIdentifier</key>
+    <string>r.macOSBeta.0BD60CF6-64B5-4D16-BEA4-7294E93BDD4C</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>01DA864C-C3AF-4039-A8D0-A00D982B1569</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
