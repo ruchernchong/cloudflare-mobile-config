@@ -1,5 +1,9 @@
 # iOS 14 & macOS Big Sur Encrypted DNS Profile
 
+## Disclaimer
+
+**BY AGREEING TO USE THE FOLLOWING CONFIGURATION, YOU ARE AWARE OF THE RISKS, DANGERS, AND THAT THIS SETTING SHALL NOT BEAR RESPONSIBILITY FOR ANY DAMAGES DONE TO YOUR DEVICES.**
+
 ## Background
 
 [Apple adds support for encrypted DNS (DoH and DoT)](https://www.zdnet.com/article/apple-adds-support-for-encrypted-dns-doh-and-dot/)
