@@ -53,6 +53,10 @@ You should expect the following:
 ![](<./Cloudflare%20DoT%20(Desktop).png>)
 ![](<./Cloudflare%20DoT%20(Mobile).jpeg>)
 
+## Known issues
+
+As of iOS 14.2 RC, the DNS over TLS is breaking Safari in-app browser. Should you face with pages not loading properly in any of the in-app browsers, the temporary workaround is to remove the profile.
+
 ## Credits
 
 - [Reddit - How To Set Up Cloudflare DNS over TLS (Secure DNS)](https://www.reddit.com/r/MacOSBeta/comments/i21e59/how_to_set_up_cloudflare_dns_over_tls_secure_dns/)
