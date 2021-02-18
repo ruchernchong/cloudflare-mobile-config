@@ -1,5 +1,11 @@
 # iOS 14 & macOS Big Sur Encrypted DNS Profile
 
+## Update (18 Feb 2021)
+
+[AdGuard for iOS](https://apps.apple.com/app/apple-store/id1047223162) has been updated with native DNS support. You are recommended to install the AdGuard update and use the feature.
+
+As such, this project will go into read-only mode with immediate effect and the configuration is still available for download for macOS usage.
+
 ## Disclaimer
 
 **BY AGREEING TO USE THE FOLLOWING CONFIGURATION, YOU ARE AWARE OF THE RISKS, DANGERS, AND THAT THIS SETTING SHALL NOT BEAR RESPONSIBILITY FOR ANY DAMAGES DONE TO YOUR DEVICES.**
