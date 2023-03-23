@@ -1,4 +1,4 @@
-# iOS 14 & macOS Big Sur Encrypted DNS Profile
+# iOS/iPadOS & macOS Encrypted DNS Profile
 
 ## Update (18 Feb 2021)
 
